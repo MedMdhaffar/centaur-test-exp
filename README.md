@@ -1,6 +1,7 @@
 # 🧠 Centaur Test Experiment
 
-![Uploading image.png…]()
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/51141a78-c150-4dc2-a84b-4b9c42ba21ab" />
+
 
 <p align="center">
   <b>

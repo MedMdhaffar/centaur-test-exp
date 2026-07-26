@@ -127,7 +127,6 @@ The review covers:
 ## Files
 
 ```
-review-centaur-icse.txt
 review-centaur-icse.pdf
 ```
 

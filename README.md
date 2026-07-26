@@ -52,3 +52,28 @@ Centaur addresses this limitation by learning **API invariants** and using symbo
 # 🔬 Centaur Pipeline
 
 The complete testing pipeline consists of three main stages:
+             API Rules
+                |
+                v
+    +-----------------------+
+    | Invariant Inference   |
+    | (Constraint Learning) |
+    +-----------------------+
+                |
+                v
+    +-----------------------+
+    | Z3 Abstract Generator |
+    | (SMT Solving)         |
+    +-----------------------+
+                |
+                v
+    +-----------------------+
+    | Concrete Input       |
+    | Generation + Fuzzing  |
+    +-----------------------+
+                |
+                v
+    +-----------------------+
+    | Crash Detection &     |
+    | Validity Analysis     |
+    +-----------------------+

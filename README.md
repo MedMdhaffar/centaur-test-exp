@@ -91,16 +91,10 @@ The complete Centaur workflow contains three main stages:
 centaur-test-exp/
 │
 ├── README.md
-│
 ├── Task1Results/
-│   ├── review-centaur-icse.txt
 │   └── review-centaur-icse.pdf
-│
-├── Task2Results/
-│   └── TorchResults.csv
-│
-└── Task3Results/
-    └── analysis.md
+└── Task2Results/
+    └── TorchResults.csv
 ```
 
 ---

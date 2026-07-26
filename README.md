@@ -440,7 +440,7 @@ for providing the opportunity to explore neurosymbolic approaches for deep learn
 
 # 📄 References
 
-- Centaur: Testing Deep Learning Libraries via Neurosymbolic Constraint Learning
+- Centaur: Testing Deep Learning Libraries via Neurosymbolic Constraint Learning : https://arxiv.org/pdf/2601.15493
 - Z3 SMT Solver Documentation
 - PyTorch Documentation
 - TensorFlow Documentation
